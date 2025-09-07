@@ -1,2 +1,2 @@
 # simple_http_server
-Simple HTTP server.
+This is part of a CodeCrafters challenge.
